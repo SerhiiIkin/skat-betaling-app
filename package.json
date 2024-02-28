@@ -2,7 +2,7 @@
   "name": "skatbetal",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://serhiiikin.github.io/skat-betaling-app",
+  "homepage": "https://serhiiikin.github.io/skat-betaling-app/",
   "type": "module",
   "scripts": {
     "dev": "vite",
