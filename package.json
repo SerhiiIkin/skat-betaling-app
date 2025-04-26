@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "devH": "vite --host 192.168.11.102",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build",
     "build": "tsc && vite build",
